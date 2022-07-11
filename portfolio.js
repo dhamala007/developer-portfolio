@@ -4,13 +4,13 @@ export const greetings = {
 	name: "Ankit Dhamala",
 	title: "Hi all, I'm Ankit Dhamala",
 	description:
-		"I'm passionate Full Stack web developer having an experience of web applications with Python, Django, React.js, Next.js and Blockchain development on Ethereum, Solidity, Web3.js, Moralis, and Brownie Framework.",
+		"I'm passionate Full Stack web developer with hands on experince in SDLC and STLC having an experience of web applications with Python, ASP.NET, Java Script, C# and php",
 	resumeLink:
-		"https://drive.google.com/file/d/1Jj4QvvMMhRZQrxngrvlhmuTLhgcisaAp/view?usp=sharing",
+		"https://docs.google.com/document/d/1unL5nZfGJtM0YIUuwPDsOG8weOxzlFWC/edit?usp=sharing&ouid=116038742848709473965&rtpof=true&sd=true",
 };
 
 export const openSource = {
-	githubUserName: "1hanzla100",
+	githubUserName: "dhamala007",
 };
 
 export const contact = {};
